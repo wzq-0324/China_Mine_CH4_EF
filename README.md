@@ -10,7 +10,7 @@ This repository contains a database of China's underground coal mines from 2011 
 ---
 
 ## Repository Structure
-
+```plaintext
 ├── code/
 │   ├── MICE_RF.py       # Main code for RF-MICE imputation and uncertainty estimation
 │   └── ...              # Additional data processing and plotting scripts (available upon request)
@@ -18,7 +18,7 @@ This repository contains a database of China's underground coal mines from 2011 
 │   ├── Database.xlsx    # Mine-level database (2011–2023) with mine characteristics and emission factors
 │   └── Figure.xlsx      # Auxiliary data used for figures in the paper
 └── README.md
-
+```
 ---
 
 ## Code Description
@@ -46,5 +46,6 @@ This repository contains a database of China's underground coal mines from 2011 
 ---
 
 ## Contact
+
 
 > **Note:** Wu Ziqi — wu-zq24@mails.tsinghua.edu.cn
